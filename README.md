@@ -1,9 +1,7 @@
 #### Hi there 👋
 
-Building things on the web · Living in Warsaw, Poland · 
-Frontend dev at <a href="https://www.docplanner.com/about-us" target="_blank">Docplanner</a>.
+I'm a software developer based in Warsaw, Poland specializing in building things on the web. I'm currently working at <a href="https://www.docplanner.com/about-us" target="_blank">Docplanner</a>.
+##### Get in touch
 
-
-##### Somewhere else
-
-<a href="https://www.linkedin.com/in/mateuszjanusz/" target="_blank"><img src="" alt="LinkedIn" width="30"></a>
+- [Email](mateuszjanuszdev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mateuszjanusz)
